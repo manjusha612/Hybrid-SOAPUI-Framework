@@ -20,5 +20,5 @@ Note:
 
 1. Green coloured test cases are PASSED
 2. Red coloured test cases are FAILED
-3. Details about test scenario categories, test cases executed and issues identified can be found in "Test Scenarios.xlsx" file
-4. Some test cases in the test suite will fail when you execute the suite as there are bugs in the API which are reported in "Test Scenarios.xlsx"
+3. Details about test scenario categories, test cases executed and issues identified can be found in "Test_Scenarios.xlsx" file
+4. Some test cases in the test suite will fail when you execute the suite as there are bugs in the API which are reported in "Test_Scenarios.xlsx"
